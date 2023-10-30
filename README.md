@@ -1,7 +1,7 @@
 # Airbnb_Analysis
 
-**Introduction
-**
+# Introduction
+
 Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolutionized the travel and property management industry, making it crucial to analyze its data to gain insights into pricing, availability patterns, and location-based trends. This project employs MongoDB Atlas, Streamlit, and data visualization techniques to provide an in-depth analysis.
 
 # Table of Contents
@@ -88,4 +88,8 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 🌐 LinkedIn:https://www.linkedin.com/in/mithun-s-100667209/
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
+
+
+![image](https://github.com/Mithun250/Airbnb_Analysis/assets/83149908/0d24b318-a2e3-4193-8348-1593d666952d)
+![image](https://github.com/Mithun250/Airbnb_Analysis/assets/83149908/355d347e-a83c-4f27-93e5-b343f596e169)
 
